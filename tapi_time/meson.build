@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: Apache-2.0
+# SPDX-License-Identifier: MIT
 # Copyright (C) 2026 Interpretica Unipessoal Lda
 #
 # External TE library (see TE_EXT_REPO): running a program on an agent
